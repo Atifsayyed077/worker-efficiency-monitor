@@ -25,6 +25,12 @@ For Workers
 
 📤 Submit Reports directly to admin
 
+
+😂 fun fact - company can give them there ensentives on there rank 
+means there bonus depend upon there rank so the productivity of the worker increase and the production of the company also increase
+LHS= RHS
+
+
 🖼 Screenshots
 Admin Panel
 
@@ -42,6 +48,9 @@ https://github.com/Atifsayyed077/worker-efficiency-monitor/blob/a9c50ec40bb9f34e
 Worker/User Panel
 
 The worker panel lets employees log tasks, track hours, and view personal performance.
+
+https://github.com/Atifsayyed077/worker-efficiency-monitor/blob/a4d77bc0f4c1191efdb04663a1c334a3f94ca3a6/Screenshot%202025-08-13%20212403.png
+
 
 🛠 Tech Stack
 Frontend: typescript , css, javascript
