@@ -29,6 +29,9 @@ For Workers
 Admin Panel
 
 The admin dashboard shows an overview of worker activity, pending tasks, and key metrics.
+https://github.com/Atifsayyed077/worker-efficiency-monitor/blob/c9c3624c2eabaa5bba2729d067eebcf139ba4687/Screenshot%202025-08-13%20211925.png
+
+
 
 Worker/User Panel
 
