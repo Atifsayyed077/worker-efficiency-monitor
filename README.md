@@ -36,6 +36,8 @@ https://github.com/Atifsayyed077/worker-efficiency-monitor/blob/c9c3624c2eabaa5b
 screenshot 02
 https://github.com/Atifsayyed077/worker-efficiency-monitor/blob/878a86b18ae0aec6de24ea621d93baad07459c8b/Screenshot%202025-08-13%20211952.png
 
+screenshot03
+https://github.com/Atifsayyed077/worker-efficiency-monitor/blob/a9c50ec40bb9f34efdc980d9c4df2be2def02382/Screenshot%202025-08-13%20212017.png
 
 Worker/User Panel
 
